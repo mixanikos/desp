@@ -1,0 +1,39 @@
+html,body{
+    background-image: url(howls-moving-castle\ \(1\).gif);
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+}
+div{
+    background-color: rgb(251, 213, 235);
+    height:800px;
+    width:900px;
+    margin: 50px;
+    display:flex;
+    justify-self: center;
+    padding:20px;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(58, 141, 69);
+    border-width: 3px;    
+    color:rgb(58, 141, 69);
+    font-family: "Imperial Script", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size:28px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+a:link,a:visited,a:active {
+    text-decoration: underline;
+    color:rgb(58, 141, 69);
+  }
+a:hover{
+    opacity: 70%;
+}
+ul{
+    margin:10px;
+}
